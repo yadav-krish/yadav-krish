@@ -77,33 +77,56 @@ class KrishnaYadav:
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yadav-krish&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yadav-krish&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadav-krish&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-krish&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yadav-krish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-krish&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadav-krish&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadav-krish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-krish&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 ---
 
-## 🎨 Featured Projects
+## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yadav-krish/spam-sms-classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadav-krish&repo=spam-sms-classifier&theme=algolia&hide_border=true" />
-  </a>
-  <a href="https://github.com/yadav-krish/fraud-detection-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadav-krish&repo=fraud-detection-system&theme=algolia&hide_border=true" />
-  </a>
+
+### 🔍 Machine Learning Projects
+```
+🤖 Spam SMS Classifier     │  🛡️ Fraud Detection System
+📧 NLP-based spam filter   │  💳 Transaction anomaly detection  
+🐍 Python • Scikit-learn   │  🐍 Python • Pandas • ML
+⭐ Accuracy: 95%+          │  ⭐ Real-time processing
+```
+
+### 🌐 Web Development
+```
+💼 Portfolio Website       │  🧮 Scientific Calculator
+⚛️ React • Modern UI       │  📐 Advanced math operations
+🎨 Responsive Design       │  💻 JavaScript • CSS Grid
+🚀 Fast & Optimized        │  🔢 Complex calculations
+```
+
+### 📊 Data Analytics
+```
+📈 Data Visualization      │  🗺️ Geospatial Assistant  
+📊 Interactive Dashboards  │  🌍 Location-based insights
+🐍 Python • Matplotlib     │  🗺️ Maps • APIs • Analysis
+💡 Business Intelligence   │  📍 Spatial data processing
+```
+
 </div>
 
 ---
