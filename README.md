@@ -1,52 +1,152 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krishna%20Yadav&fontSize=50&fontColor=fff&animation=twinkling)
+
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Final+Year+BTech+Student;AI%2FML+Enthusiast;Full+Stack+Developer;Data+Analytics+Explorer;Problem+Solver" alt="Typing SVG" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:7C3AED&height=200&section=header&text=Hi,%20I'm%20Krishna%20Yadav!&fontSize=40&fontAlignY=35&desc=Final%20Year%20BTech%20Student%20%7C%20GATE%202026%20Aspirant%20%7C%20Developer&descAlignY=60&descAlign=50" />
+<h3 align="center">🎓 BTech Student at KNIT Sultanpur | 🚀 Tech Enthusiast | 💡 Problem Solver</h3>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Final+Year+BTech+Student;GATE+2026+Aspirant;TailwindCSS+%2B+React+Developer;Loves+AI%2C+Maths%2C+and+Clean+Code;Learning+by+Building+Cool+Things+%F0%9F%94%A5" alt="Typing SVG" />
+<p align="center">
+  <em>Driven by curiosity and creativity, I build intelligent solutions that bridge the gap between complex data and meaningful insights. From AI-powered applications to full-stack web development, I transform ideas into impactful digital experiences.</em>
 </p>
 
+---
+
+## 🎯 About Me
+
+```python
+class KrishnaYadav:
+    def __init__(self):
+        self.name = "Krishna Yadav"
+        self.role = "AI/ML Engineer & Full Stack Developer"
+        self.location = "KNIT Sultanpur, India"
+        self.current_focus = ["React Development", "Data Analytics", "Portfolio Building"]
+        self.interests = ["Machine Learning", "Web Development", "Data Science"]
+        
+    def get_daily_routine(self):
+        return {
+            "morning": "☕ Coffee + Code",
+            "afternoon": "🧠 Learning new technologies",
+            "evening": "🔨 Building projects",
+            "night": "📚 Reading tech articles"
+        }
+    
+    def current_mood(self):
+        return "Ready to collaborate on exciting projects! 🚀"
+```
+
+---
+
+## 🔥 Current Focus
+
+- 🔭 **Working on:** My portfolio website with modern design principles
+- 🌱 **Learning:** Advanced React patterns and Data Analytics techniques
+- 👯 **Open to collaborate on:** AI/ML projects and Frontend applications
+- 🎯 **2025 Goals:** Contribute to open source, master cloud technologies
+- ⚡ **Fun fact:** I believe data science is 80% cleaning data and 20% pretending it's easy! 😄
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css" />
+</p>
+
+### 🚀 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vue,tensorflow" />
+</p>
+
+### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,aws,azure,arduino,matlab" />
+</p>
+
+### 📊 Data Science & ML
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yadav-krish&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 📊 GitHub Analytics
 
-```js
-const krishna = {
-  github: "yadav-krish",
-  role: "Full Stack Developer | GATE Aspirant",
-  education: "Final Year BTech @ KNIT Sultanpur",
-  focus: ["Web Dev", "Competitive Programming", "AI Projects", "GATE 2026 CSE"],
-  interests: ["🚀 Building Cool Projects", "📊 Data Viz", "🤖 AI Bots", "🌱 Robotics Club"],
-  known_for: "Creative frontend design + logical Java backend skills",
-  personal_goal: "To crack GATE 2026 and build impactful tech",
-}
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,tailwind,git,github,vscode,figma" /> </p>
-🚀 Featured Projects
-🛠️ Project	🔍 Description
-🔢 Scientific Calculator	Beautiful, responsive calculator with scientific functions using TailwindCSS & JavaScript
-📩 Spam SMS Classifier	ML-based app to detect spam in messages with file upload support and color-coded UI
-🌍 GeoPilot AI	A geospatial assistant using LLMs + maps — Earth + rocket animation for UI!
-🤖 Currency Converter Bot	Smart chatbot that helps you convert currencies with real-time data
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadav-krish&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-krish&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</div>
 
-📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yadav-krish&show_icons=true&theme=radical&hide=issues&count_private=true" width="45%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=yadav-krish&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="45%" /> </div>
-🔝 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-krish&layout=compact&theme=radical" width="45%" /> </p>
-🏆 GitHub Trophy Case
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yadav-krish&theme=onedark&row=1&column=6" /> </p>
-📫 Reach Me
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank"> <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /> </a> </p>
-🎯 Fun Facts
-🔍 I love debugging more than writing code
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadav-krish&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</div>
 
-🤖 I enjoy turning logic into beautiful frontend magic
+---
 
-🧠 I treat every GATE topic like a boss fight
+## 🎨 Featured Projects
 
-🛠️ I believe in "Build → Break → Learn → Repeat"
+<div align="center">
+  <a href="https://github.com/yadav-krish/spam-sms-classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadav-krish&repo=spam-sms-classifier&theme=algolia&hide_border=true" />
+  </a>
+  <a href="https://github.com/yadav-krish/fraud-detection-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadav-krish&repo=fraud-detection-system&theme=algolia&hide_border=true" />
+  </a>
+</div>
 
-👀 Profile Visitors
-<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=yadav-krish.visitor-badge" alt="visitor badge"/> </p> ```
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/krishna-yadav-896219247" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yadavkrish2709@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.hackerrank.com/yadavkrish2709" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/yadavkriyn6i" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-krish&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yadav-krish&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  <p><em>⭐ From <a href="https://github.com/yadav-krish">Krishna Yadav</a></em></p>
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
