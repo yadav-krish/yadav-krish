@@ -73,18 +73,9 @@ class KrishnaYadav:
 </p>
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yadav-krish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-krish&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-krish&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
+### 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yadav-krish&show_icons=true&theme=radical" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-krish&layout=compact&theme=radical" width="40%"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-krish&bg_color=0D1117&color=EC4899&line=8B5CF6&point=3B82F6&area=true&hide_border=true&theme=radical" width="100%" /> </p>
 ---
 
 ## 🎯 Featured Projects
@@ -134,14 +125,6 @@ class KrishnaYadav:
   <a href="https://auth.geeksforgeeks.org/user/yadavkriyn6i" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-krish&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
